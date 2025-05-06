@@ -16,6 +16,7 @@
 # Ignore foundry artifacts & cache.
 artifacts/
 cache/
+lib/
 
 # Ignore internal interfaces.
 tests/interfaces/internal/*.sol
